@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="data-science-from-scratch" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="data-science-from-scratch" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
 </project>
